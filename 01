@@ -1,0 +1,7 @@
+# include < stdio.h >
+
+int  main () {
+  printf ( " \ n Hola Mundo " );
+  printf ( " \ n Ulises Ramírez \ n " )
+  return  0 ;
+}
